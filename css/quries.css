@@ -1,0 +1,120 @@
+                    @media only screen and (max-width:1023px) {
+                        ul {
+                            display: none;
+                        }
+                        .hero_text {
+                            top: -30em;
+                        }
+                        .header_container {
+                            height: 600px;
+                        }
+                        .hero_head {
+                            font-size: 17px;
+                        }
+                        .hero_para {
+                            line-height: 28px;
+                        }
+                        .first_section {
+                            flex-direction: column;
+                        }
+                        .painting {
+                            width: 85%;
+                            margin: 29px auto;
+                        }
+                        .second_section {
+                            flex-direction: column;
+                            padding: 0;
+                        }
+                        .sub_section {
+                            width: 66%;
+                            height: 635px;
+                            right: 0px;
+                            margin: 0 auto;
+                        }
+                        .man_image img {
+                            width: 100%;
+                        }
+                        .sub_section p {
+                            font-size: 16px;
+                        }
+                        .third_section {
+                            margin: 718px 0px 0px 0px;
+                        }
+                        .third_section h1 {
+                            font-size: 27px;
+                        }
+                        .sub_third_section {
+                            display: block;
+                        }
+                        .project1 {
+                            flex-direction: column;
+                        }
+                        .project2 {
+                            flex-direction: column;
+                        }
+                        .sub_project {
+                            width: 85%;
+                            margin: 100px auto;
+                            height: fit-content;
+                        }
+                    }
+                    /*                     
+                    @media only screen and (max-width:1200px) {
+                        ul {
+                            display: none;
+                        }
+                        .hero_text {
+                            top: -30em;
+                        }
+                        .header_container {
+                            height: 600px;
+                        }
+                        .hero_head {
+                            font-size: 17px;
+                        }
+                        .hero_para {
+                            line-height: 28px;
+                        }
+                        .first_section {
+                            flex-direction: column;
+                        }
+                        .painting {
+                            width: 85%;
+                            margin: 29px auto;
+                        }
+                        .second_section {
+                            flex-direction: column;
+                            padding: 0;
+                        }
+                        .sub_section {
+                            width: 66%;
+                            height: 635px;
+                            right: 0px;
+                            margin: 0 auto;
+                        }
+                        .man_image img {
+                            width: 100%;
+                        }
+                        .sub_section p {
+                            font-size: 16px;
+                        }
+                        .third_section {
+                            margin: 548px 0px 0px 0px;
+                        }
+                        .third_section h1 {
+                            font-size: 27px;
+                        }
+                        .sub_third_section {
+                            display: block;
+                        }
+                        .project1 {
+                            flex-direction: column;
+                        }
+                        .project2 {
+                            flex-direction: column;
+                        }
+                        .sub_project {
+                            width: 85%;
+                            margin: 10px auto;
+                        }
+                    } */
