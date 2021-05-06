@@ -57,6 +57,23 @@
                             margin: 100px auto;
                             height: fit-content;
                         }
+                        .sub_fifth_section {
+                            flex-direction: column;
+                        }
+                        .fifth_edition {
+                            width: 76%;
+                            margin: 40px auto;
+                            height: 456px;
+                        }
+                        .fifth_section {
+                            height: 2293px;
+                        }
+                        .fifth_text {
+                            line-height: 35px;
+                        }
+                        .fifth_text p {
+                            font-size: 14px;
+                        }
                     }
                     /*                     
                     @media only screen and (max-width:1200px) {

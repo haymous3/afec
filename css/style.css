@@ -224,8 +224,71 @@
     .fourth_text h1 {
         font-size: 30px;
         font-weight: 700;
+        padding: 0px 0px 30px 0px;
     }
     
     .fourth_text h4 {
         color: rosybrown;
+    }
+    
+    .sub_fifth_section {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .fifth_section {
+        margin: 150px 0px 0px 0px;
+        background-color: #eee;
+        height: 900px;
+    }
+    
+    .fifth_section h1 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bolder;
+        padding: 80px 0px 0px 0px;
+    }
+    
+    .text_service {
+        color: rosybrown;
+    }
+    
+    .fifth_edition {
+        display: flex;
+        align-items: center;
+        width: 40%;
+        height: 300px;
+        box-shadow: 0px 5px 15px 0px rgb(0 0 0 / 15%);
+        margin: 40px 0px 0px 0px;
+        border-radius: 5px;
+        padding: 0px 30px;
+        background-color: #fff;
+    }
+    
+    .service_image img {
+        width: 70px;
+    }
+    
+    .fifth_text {
+        line-height: 30px;
+    }
+    
+    .text_text {
+        padding: 0px 0px 0px 30px;
+    }
+    
+    .sub_project1 h3 {
+        padding: 0px 20px;
+    }
+    
+    .sub_project1 h1 {
+        line-height: 35px;
+    }
+    
+    .sub_project1 {
+        height: 550px;
+    }
+    
+    .fourth_section1 {
+        margin: 150px 0px 0px 0px;
     }
